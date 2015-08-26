@@ -1,2 +1,2 @@
 # FlyJson
-FlyJson ; light JSON String parser and JSON Object builder
+light JSON String parser and JSON Object builder
